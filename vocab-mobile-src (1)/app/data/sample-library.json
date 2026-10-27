@@ -1,0 +1,247 @@
+{
+  "version": 1,
+  "name": "四六级核心词（示例）",
+  "exportedAt": 1788876585319,
+  "words": [
+    {
+      "word": "abandon",
+      "translation": "v. 放弃；抛弃",
+      "errorCount": 0,
+      "addedAt": 1788617385319,
+      "nextReviewAt": 1788790185319,
+      "reviewCount": 1
+    },
+    {
+      "word": "ability",
+      "translation": "n. 能力；才能",
+      "errorCount": 0,
+      "addedAt": 1788098985319,
+      "nextReviewAt": 1788530985319,
+      "reviewCount": 2
+    },
+    {
+      "word": "absolute",
+      "translation": "a. 绝对的；完全的",
+      "errorCount": 0,
+      "addedAt": 1788703785319,
+      "nextReviewAt": 1788703785319,
+      "reviewCount": 1
+    },
+    {
+      "word": "absorb",
+      "translation": "v. 吸收；吸引",
+      "errorCount": 0,
+      "addedAt": 1787753385319,
+      "nextReviewAt": 1788790185319,
+      "reviewCount": 2
+    },
+    {
+      "word": "abstract",
+      "translation": "a. 抽象的",
+      "errorCount": 0,
+      "addedAt": 1788185385319,
+      "nextReviewAt": 1788617385319,
+      "reviewCount": 1
+    },
+    {
+      "word": "abundant",
+      "translation": "a. 丰富的；充裕的",
+      "errorCount": 1,
+      "addedAt": 1788358185319,
+      "nextReviewAt": 1788703785319,
+      "reviewCount": 0
+    },
+    {
+      "word": "academic",
+      "translation": "a. 学术的；学院的",
+      "errorCount": 3,
+      "addedAt": 1788530985319,
+      "nextReviewAt": 1788617385319,
+      "reviewCount": 0
+    },
+    {
+      "word": "accelerate",
+      "translation": "v. 加速；促进",
+      "errorCount": 0,
+      "addedAt": 1788617385319,
+      "nextReviewAt": 1788876585319,
+      "reviewCount": 2
+    },
+    {
+      "word": "accommodation",
+      "translation": "n. 住宿；膳宿",
+      "errorCount": 0,
+      "addedAt": 1788098985319,
+      "nextReviewAt": 1788790185319,
+      "reviewCount": 1
+    },
+    {
+      "word": "accompany",
+      "translation": "v. 陪伴；伴随",
+      "errorCount": 0,
+      "addedAt": 1787753385319,
+      "nextReviewAt": 1788790185319,
+      "reviewCount": 0
+    },
+    {
+      "word": "accomplish",
+      "translation": "v. 完成；实现",
+      "errorCount": 0,
+      "addedAt": 1787666985319,
+      "nextReviewAt": 1788530985319,
+      "reviewCount": 0
+    },
+    {
+      "word": "accumulate",
+      "translation": "v. 积累；积聚",
+      "errorCount": 0,
+      "addedAt": 1788271785319,
+      "nextReviewAt": 1788703785319,
+      "reviewCount": 2
+    },
+    {
+      "word": "accurate",
+      "translation": "a. 准确的；精确的",
+      "errorCount": 0,
+      "addedAt": 1788444585319,
+      "nextReviewAt": 1788790185319,
+      "reviewCount": 1
+    },
+    {
+      "word": "achieve",
+      "translation": "v. 达到；实现",
+      "errorCount": 0,
+      "addedAt": 1787666985319,
+      "nextReviewAt": 1788530985319,
+      "reviewCount": 2
+    },
+    {
+      "word": "acquire",
+      "translation": "v. 获得；习得",
+      "errorCount": 2,
+      "addedAt": 1788703785319,
+      "nextReviewAt": 1788703785319,
+      "reviewCount": 2
+    },
+    {
+      "word": "adapt",
+      "translation": "v. 适应；改编",
+      "errorCount": 0,
+      "addedAt": 1788530985319,
+      "nextReviewAt": 1788530985319,
+      "reviewCount": 1
+    },
+    {
+      "word": "adequate",
+      "translation": "a. 充足的；适当的",
+      "errorCount": 1,
+      "addedAt": 1788790185319,
+      "nextReviewAt": 1788617385319,
+      "reviewCount": 2
+    },
+    {
+      "word": "adjust",
+      "translation": "v. 调整；适应",
+      "errorCount": 0,
+      "addedAt": 1788703785319,
+      "nextReviewAt": 1788876585319,
+      "reviewCount": 0
+    },
+    {
+      "word": "admire",
+      "translation": "v. 钦佩；欣赏",
+      "errorCount": 0,
+      "addedAt": 1787753385319,
+      "nextReviewAt": 1788703785319,
+      "reviewCount": 1
+    },
+    {
+      "word": "admit",
+      "translation": "v. 承认；准许进入",
+      "errorCount": 0,
+      "addedAt": 1787926185319,
+      "nextReviewAt": 1788703785319,
+      "reviewCount": 0
+    },
+    {
+      "word": "adopt",
+      "translation": "v. 采纳；收养",
+      "errorCount": 0,
+      "addedAt": 1788358185319,
+      "nextReviewAt": 1788790185319,
+      "reviewCount": 2
+    },
+    {
+      "word": "advanced",
+      "translation": "a. 先进的；高级的",
+      "errorCount": 0,
+      "addedAt": 1788530985319,
+      "nextReviewAt": 1788790185319,
+      "reviewCount": 1
+    },
+    {
+      "word": "advantage",
+      "translation": "n. 优势；好处",
+      "errorCount": 2,
+      "addedAt": 1788012585319,
+      "nextReviewAt": 1788617385319,
+      "reviewCount": 1
+    },
+    {
+      "word": "advocate",
+      "translation": "v. 提倡；主张",
+      "errorCount": 3,
+      "addedAt": 1788530985319,
+      "nextReviewAt": 1788790185319,
+      "reviewCount": 2
+    },
+    {
+      "word": "ambiguous",
+      "translation": "a. 模糊的；含糊的",
+      "errorCount": 0,
+      "addedAt": 1788530985319,
+      "nextReviewAt": 1788617385319,
+      "reviewCount": 1
+    },
+    {
+      "word": "ambitious",
+      "translation": "a. 有雄心的；野心勃勃的",
+      "errorCount": 0,
+      "addedAt": 1787666985319,
+      "nextReviewAt": 1788530985319,
+      "reviewCount": 1
+    },
+    {
+      "word": "analyze",
+      "translation": "v. 分析；解析",
+      "errorCount": 0,
+      "addedAt": 1788790185319,
+      "nextReviewAt": 1788617385319,
+      "reviewCount": 2
+    },
+    {
+      "word": "ancient",
+      "translation": "a. 古代的；古老的",
+      "errorCount": 2,
+      "addedAt": 1788617385319,
+      "nextReviewAt": 1788790185319,
+      "reviewCount": 1
+    },
+    {
+      "word": "annual",
+      "translation": "a. 年度的；每年的",
+      "errorCount": 0,
+      "addedAt": 1788617385319,
+      "nextReviewAt": 1788703785319,
+      "reviewCount": 0
+    },
+    {
+      "word": "anticipate",
+      "translation": "v. 预期；期望",
+      "errorCount": 0,
+      "addedAt": 1788790185319,
+      "nextReviewAt": 1788617385319,
+      "reviewCount": 0
+    }
+  ]
+}

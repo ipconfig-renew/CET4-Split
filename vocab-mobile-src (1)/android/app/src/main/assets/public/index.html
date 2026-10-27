@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+  <title>四六级背词计划</title>
+  <link rel="stylesheet" href="css/styles.css" />
+</head>
+<body>
+  <!-- 顶部栏：应用标题 + 三个模块切换 -->
+  <header class="topbar">
+    <div class="app-title">四六级背词计划</div>
+    <nav class="tabs" id="tabs">
+      <button class="tab active" data-tab="task">每日任务</button>
+      <button class="tab" data-tab="test">测试</button>
+      <button class="tab" data-tab="library">词库</button>
+      <button class="tab" data-tab="search">检索</button>
+    </nav>
+  </header>
+
+  <!-- 主内容区，由各模块渲染 -->
+  <main id="view" class="view"></main>
+
+  <!-- 脚本按依赖顺序加载（不使用 ES module，兼容 file:// 与 WebView） -->
+  <!-- Capacitor 运行时：本工程无打包器，插件的 UMD 注册脚本需手动引入。
+       core 必须先加载（提供 registerPlugin / capacitorExports），插件依赖它完成注册。
+       非原生环境（浏览器 / Electron）加载后 isNativePlatform() 返回 false，不会改变原有行为。 -->
+  <script src="js/capacitor/capacitor.js"></script>
+  <script src="js/capacitor/text-to-speech.js"></script>
+  <script src="js/dict-data.js"></script>
+  <script src="js/store.js"></script>
+  <script src="js/spell.js"></script>
+  <script src="js/ui.js"></script>
+  <script src="js/library.js"></script>
+  <script src="js/task.js"></script>
+  <script src="js/test.js"></script>
+  <script src="js/search.js"></script>
+  <script src="js/app.js"></script>
+</body>
+</html>

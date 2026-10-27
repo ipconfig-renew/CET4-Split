@@ -1,0 +1,22 @@
+{
+  "name": "vocab-mobile",
+  "version": "1.0.0",
+  "description": "四六级背词计划 - 移动端（Capacitor 包装 Web 核心应用，构建为 Android APK）",
+  "scripts": {
+    "vendor:capacitor": "node scripts/vendor-capacitor.js",
+    "prebuild:android": "node scripts/vendor-capacitor.js",
+    "build:android": "cap sync android && cd android && ./gradlew assembleDebug",
+    "presync": "node scripts/vendor-capacitor.js",
+    "sync": "cap sync android"
+  },
+  "devDependencies": {
+    "@capacitor/android": "^8.0.0",
+    "@capacitor/cli": "^8.0.0",
+    "@capacitor/core": "^8.0.0",
+    "@capacitor/filesystem": "^8.0.0",
+    "@capacitor/share": "^8.0.0"
+  },
+  "dependencies": {
+    "@capacitor-community/text-to-speech": "^8.0.2"
+  }
+}
